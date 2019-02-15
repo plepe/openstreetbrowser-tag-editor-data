@@ -1,0 +1,10 @@
+{
+    "type": "checkbox",
+    "tag_type": "prefix_yes",
+    "values": [
+        "clothes",
+        "glass",
+        "plastic_bottles",
+        "scrap_metal"
+    ]
+}
